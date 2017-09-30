@@ -13,6 +13,8 @@ import java.util.ArrayList;
 
 public class Mestre {
 
+	//TESTE COMMIT
+	
 	public static void main(String[] args) throws Exception {
 
 		int valorInicial = 1;
